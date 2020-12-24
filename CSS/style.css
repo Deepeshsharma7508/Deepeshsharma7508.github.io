@@ -1,0 +1,143 @@
+
+ body {
+background-image: url(P1.png), url(o8.png);
+background-repeat:no-repeat,no-repeat;
+background-position: top,bottom;
+background-size: 1400px,1555px;
+}
+ li  {
+    float:left;
+    letter-spacing: 4px;
+    text-decoration: none;
+    padding-right: 5px;
+}
+li b {
+    color: ivory;
+    font-family: cursive;   
+}
+ .welcome-section h1 {
+    text-align: center;
+    letter-spacing: 4px;
+    background-color: rgba(158, 110, 5, 0.582);
+    border:turquoise;
+    width: 600px;
+    margin: 0px 350px;
+    font-family:cursive;
+    color: rgb(201, 235, 10);
+   }
+h2 {
+    text-align: center;
+    letter-spacing: 4px;
+    background-color: rgba(8, 103, 141, 0.582);
+    border:turquoise;
+    width: 200px;
+    margin: 50px 550px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(10, 201, 235);
+}  
+.name h2{
+    font-family: cursive;
+    width: 300px;
+    margin-left: 500px ;
+    color: rgb(255, 145, 0);
+    background-color: rgba(162, 0, 255, 0.63);   
+} 
+.photo {
+    padding-left:1000px ;
+    height: 50px;
+}
+.details h2 {
+    text-align: center;
+    background-color: rgba(216, 112, 147, 0.568);
+    color: papayawhip;   
+}
+.details p {
+    text-align: center;
+    letter-spacing: 4px;
+    font-size: 20px;
+    background-color:rgba(243, 240, 237, 0.527) ;
+    width: 650px;
+    margin-left: 300px;
+    font-family: cursive;
+    color: rgb(65, 17, 2);
+}
+.more-details {
+    text-align: center;
+    letter-spacing: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+ p {
+ background-color:rgba(105, 73, 3, 0.582); 
+ text-align: center;
+ color: rgb(0, 255, 242);
+ width: 700px;
+ margin-left: 300px;
+ font-family: cursive;
+ letter-spacing: 4px;
+}
+.more-details h3 {
+    background-color: rgba(245, 180, 160, 0.616);
+    width: 200px;
+    margin-left: 570px;
+    color: rgb(83, 42, 3);
+}
+table {
+    font-family: cursive;
+    margin-left: 400px;
+    color:  rgb(0, 255, 242);
+    border-radius: 10px;
+    border-color: rgb(141, 53, 2);
+    background-color: rgba(66, 33, 3, 0.281);
+}
+table th{
+    color: rgb(136, 255, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Project-section a ,nav a{
+    display: inline-block;
+    background-color: rgba(73, 12, 241, 0.589);
+    color: rgb(252, 164, 0);
+   width: 200px;
+   height: 30px;
+   text-align: center;
+   box-shadow: black 10px 10px;
+   margin-left: 30px;
+   margin-bottom: 20px;
+   border-radius: 4px ;
+   line-height: 36px;
+}
+.Project-section a:hover,.active a,nav a:hover{
+    background-color: rgba(218, 117, 218, 0.466);
+    color: rgb(26, 1, 51);
+}
+a:active {
+    position: relative;
+    top: 10px;
+    right: 10px;
+    box-shadow: none;
+}
+.gitlink a {
+    background-color: rgba(9, 203, 252, 0.534);
+    color:rgb(248, 194, 15);
+}
+.gitlink a:hover {
+    background-color: rgba(218, 117, 218, 0.466);
+    color: rgb(26, 1, 51);
+}
+a h1 {
+    text-align: center;
+    background-color: rgba(9, 203, 252, 0.534);
+    width:300px;
+    color:rgb(248, 194, 15);
+    margin-left: 500px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+a h1:hover {
+    background-color: rgba(218, 117, 218, 0.466);
+    color: rgb(26, 1, 51);
+}
+
